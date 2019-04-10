@@ -1,0 +1,151 @@
+body {
+    background-color: #807F83;
+    font-family: Arial, sans-serif;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    background-color: white;
+}
+.navbutton {
+    width: 200px;
+    height: 75px;
+}
+.home {
+    background-image: url("images/home.jpg");
+}
+.home:hover {
+    background-image: url("images/home.roll.jpg");
+}
+.images {
+    background-image: url("images/images.jpg")
+}
+.images:hover {
+    background-image: url("images/images.roll.jpg");
+}
+.maps {
+    background-image: url("images/map.jpg");
+}
+.maps:hover {
+    background-image: url("images/map.roll.jpg");
+}
+.programs {
+    background-image: url("images/programs.jpg");
+}
+.programs:hover {
+    background-image: url("images/programs.roll.jpg");
+}
+.references {
+    background-image: url("images/references.jpg");
+}
+.references:hover {
+    background-image: url("images/references.roll.jpg");
+}
+.nav {
+    width: 1000px;
+    height: 75px;
+}
+.banner {
+    width: 1000px;
+    height: 250px;
+    background-size: cover;
+}
+.btn {
+    width: 200px;
+    height: 75px;
+    filter: grayscale(0.8);
+}
+.btn:hover {
+    filter: grayscale(0.1);
+}
+.banner {
+    width: 1000px;
+}
+.tbl {
+    width: 1000px;
+}
+tbody tr td {
+}
+a:link {
+    color: #015b86;
+}
+a:hover {
+    color: #029feb;
+}
+h1 {
+    color: #4f2683;
+    font-weight: bold;
+    font-size: 140%
+}
+h2 {
+    color: #4f2683;
+    font-weight: bold;
+    font-size: 130%;
+}
+h3 {
+    color: #4f2683;
+    font-size: 120%;
+}
+h4 {
+    color: #4f2683;
+    font-weight: 140%;
+    font-size: 110%
+}
+p {
+    font-size: 14px;
+    color: #000000;
+}
+th {
+    color: #333333;
+}
+tfoot {
+    height: 200px;
+    width: 1000px;
+    background-color: #4f2683;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 100%
+}
+tfoot tr {
+    height: 200px;
+    width: 1000px;
+    background-color: #4f2683;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 100%
+}
+tfoot tr td {
+    height: 200px;
+    width: 1000px;
+    background-color: #4f2683;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 100%
+}
+.btm {
+    display: inline;
+}
+.gallery img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+}
+tfoot a {
+    text-decoration: white;
+    color: white;
+    text-underline: white;
+}
+tfoot a:visited {
+    text-decoration: white;
+    color: white;
+    text-underline: white;
+}
+tfoot a:active {
+     text-decoration: white;
+     color: white;
+     text-underline: white;
+ }
+tfoot h4 {
+    color: white;
+}
